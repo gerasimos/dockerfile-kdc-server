@@ -1,6 +1,7 @@
-# Instructions
+Instructions
+============
 
-* ![Installing Kerberos on Redhat 7](https://gist.github.com/ashrithr/4767927948eca70845db)
+* [Installing Kerberos on Redhat 7](https://gist.github.com/ashrithr/4767927948eca70845db)
 
 ## How to run
 
