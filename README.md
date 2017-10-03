@@ -45,7 +45,7 @@ kadmin:  ktadd host/kdc.example.com
 
 ## Static IP
 
-![Calculate subnets](http://jodies.de/ipcalc?host=192.168.250.80&mask1=29&mask2=)
+[Calculate subnets](http://jodies.de/ipcalc?host=192.168.250.80&mask1=29&mask2=)
 
 Modify values as required:
 
